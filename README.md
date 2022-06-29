@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @annelaure-blog
-- 👀 I’m interested in creative coding & datasculpture
+- 👀 I’m interested in technical writing, design research and software documentation
 - 🌱 I’m currently learning P5.js
-- 💞️ I’m looking to collaborate on artistic projects
 - 📫 How to reach me annelaurefr-@-protonmail.com
 
 <!---
